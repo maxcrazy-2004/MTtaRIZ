@@ -50,7 +50,7 @@ public class lab2 {
             }
             System.out.println();
         }
-        //commit test
+       
     }
 }
 
